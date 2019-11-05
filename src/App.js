@@ -18,7 +18,7 @@ function App(props) {
       <br/>
       {props.users.length === 0 ?
       <p>THERE ARE NO USERS</p> :
-      props.users.map(user=> <p key={user.id}>{user.frist_name} - {user.email}</p>)}
+      props.users.map(user=> <p key={user.id}>{user.first_name} - {user.email}</p>)}
       <br/>
       <button onClick={props.fetchUsers}>FETCH USERS</button>
     </div>
