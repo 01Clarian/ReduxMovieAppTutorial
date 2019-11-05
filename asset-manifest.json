@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReduxMovieAppTutorial/static/css/main.b100e6da.chunk.css",
-    "main.js": "/ReduxMovieAppTutorial/static/js/main.e89a2663.chunk.js",
-    "main.js.map": "/ReduxMovieAppTutorial/static/js/main.e89a2663.chunk.js.map",
+    "main.js": "/ReduxMovieAppTutorial/static/js/main.1795d08f.chunk.js",
+    "main.js.map": "/ReduxMovieAppTutorial/static/js/main.1795d08f.chunk.js.map",
     "runtime-main.js": "/ReduxMovieAppTutorial/static/js/runtime-main.b7ddc10b.js",
     "runtime-main.js.map": "/ReduxMovieAppTutorial/static/js/runtime-main.b7ddc10b.js.map",
     "static/js/2.c3971cfc.chunk.js": "/ReduxMovieAppTutorial/static/js/2.c3971cfc.chunk.js",
     "static/js/2.c3971cfc.chunk.js.map": "/ReduxMovieAppTutorial/static/js/2.c3971cfc.chunk.js.map",
     "index.html": "/ReduxMovieAppTutorial/index.html",
-    "precache-manifest.2efb85e8d53e5dbd1b3715f5857a7ea9.js": "/ReduxMovieAppTutorial/precache-manifest.2efb85e8d53e5dbd1b3715f5857a7ea9.js",
+    "precache-manifest.109f24edc5c4df4bfaaae2bf4f432e0a.js": "/ReduxMovieAppTutorial/precache-manifest.109f24edc5c4df4bfaaae2bf4f432e0a.js",
     "service-worker.js": "/ReduxMovieAppTutorial/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/ReduxMovieAppTutorial/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b7ddc10b.js",
     "static/js/2.c3971cfc.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.e89a2663.chunk.js"
+    "static/js/main.1795d08f.chunk.js"
   ]
 }

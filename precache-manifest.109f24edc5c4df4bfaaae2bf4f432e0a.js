@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8db089c890821402f211cac35325ba0b",
+    "revision": "4dc04da6d3c44043541fa41537cd5846",
     "url": "/ReduxMovieAppTutorial/index.html"
   },
   {
-    "revision": "fba116bac1394f0686e1",
+    "revision": "7ad631b524f28f4f2350",
     "url": "/ReduxMovieAppTutorial/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReduxMovieAppTutorial/static/js/2.c3971cfc.chunk.js"
   },
   {
-    "revision": "fba116bac1394f0686e1",
-    "url": "/ReduxMovieAppTutorial/static/js/main.e89a2663.chunk.js"
+    "revision": "7ad631b524f28f4f2350",
+    "url": "/ReduxMovieAppTutorial/static/js/main.1795d08f.chunk.js"
   },
   {
     "revision": "dc02bdb965d03aa8f080",
